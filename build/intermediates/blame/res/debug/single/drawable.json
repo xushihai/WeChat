@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_bg_selector.xml",
+        "source": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\drawable\\actionbar_bg_selector.xml"
+    }
+]

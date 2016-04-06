@@ -1,0 +1,50 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/WeChatActionBar</item>
+        <item name="android:itemBackground">@drawable/actionbar_bg_selector</item>
+        <item name="android:actionBarItemBackground">@drawable/actionbar_bg_selector</item>
+        <item name="android:itemTextAppearance">@style/WeChatActionBarOverflow</item>
+        <item name="android:actionOverflowButtonStyle">@style/WeChatActionButtonOverflow</item>
+        <item name="android:popupMenuStyle">@style/WeChatActionBarPopupMenu</item>
+    </style>
+
+
+
+   <!--OptionMenu的样式-->
+    <!-- The beef: background color for Action Bar overflow menu -->
+    <style name="WeChatActionBarPopupMenu" parent="android:Widget.Holo.Light.ListPopupWindow">
+        <!--OptionMenu的背景属性-->
+        <item name="android:popupBackground">@drawable/actionbar_bg_selector</item>
+    </style>
+
+    <!--actionbar的样式-->
+    <style name="WeChatActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <!--actionbar的背景属性-->
+        <item name="android:background">#303537</item>
+        <!--actionbar的标题样式属性-->
+        <item name="android:titleTextStyle">@style/WeChatActionBarTitleText</item>
+    </style>
+
+    <!--actionbar的标题的样式-->
+    <style name="WeChatActionBarTitleText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <!--标题的字体颜色属性-->
+        <item name="android:textColor">#cfcfcf</item>
+        <!--标题的字体大小-->
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <!--actionbar的溢出菜单样式-->
+    <style name="WeChatActionBarOverflow" parent="@android:style/Widget.ActionButton.Overflow">
+        <!--actionbar的溢出菜单的字体大小-->
+        <item name="android:textSize">16sp</item>
+        <!--actionbar的溢出菜单的字体颜色-->
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <!--actionbar的溢出按钮样式-->
+    <style name="WeChatActionButtonOverflow" parent="android:style/Widget.Holo.ActionButton.Overflow">
+        <!--actionbar的溢出按钮的图片-->
+        <item name="android:src">@drawable/actionbar_add_icon</item>
+    </style>
+
+</resources>

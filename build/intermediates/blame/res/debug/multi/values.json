@@ -1,0 +1,244 @@
+[
+    {
+        "outputFile": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 44,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 58,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 57,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 55,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endColumn": 45,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 45,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 50,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 44,
+                    "endOffset": 1081
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1086,
+                    "endColumn": 42,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 44,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1174,
+                    "endColumn": 46,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 39,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1261,
+                    "endColumn": 48,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endColumn": 48,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 41,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 48,
+                    "endOffset": 1445
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1450,
+                    "endColumn": 48,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1785
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1790,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1945
+                },
+                "from": {
+                    "file": "E:\\Android-project\\BottomSheetBuilder-master\\weChatSample\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
